@@ -1,0 +1,226 @@
+
+section{
+    font-size: larger;
+}
+h1{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+p{
+    text-align: justify;
+}
+#prueba{
+    position: relative;
+    width: 1340px;
+    height: 30px;
+}
+#lugarvacunacion{
+    position: relative;
+    width: 830px;
+    height: 500px;
+    margin-top: 100px;
+}
+#titulo{
+    color: #3757d5;
+    padding-left: 20px;
+}
+#cabecera{
+    padding-left: 850px;
+}
+button{
+    background-color: #2A6FDD;
+    color: aliceblue;
+}
+#Textoinicial{
+    color: #1f3e72;
+    width: 300px;
+    height:300px;
+    padding-left: 20px;
+}
+#escudo{
+    padding-left: 35px;
+    padding-top: 15px;
+}
+#agendado{
+    color: #244275;
+    position: absolute;
+    padding-left: 80px;
+    width: 800px;
+    height:160px;
+}
+#enviar{
+    color: white;
+    background-color: #244275;
+}
+#imagen0{
+    position: static;
+}
+#enfermera{
+    padding-top: 29px;
+    padding-left: 835px;
+}
+#imagenvacuna{
+    position: absolute;
+}
+#porque{
+    color: #1f3e72;
+    position: absolute;
+    width: 400px;
+    height:300px;
+    padding-left: 20px;
+    padding-top: 200px;
+}
+#beficios{
+    position: absolute;
+}
+#beneficio1{
+    position: absolute;
+    color: #1f3e72;
+    width: 240px;
+    height:300px;
+    padding-left: 60px;
+    padding-top: 390px;
+}
+#beneficio2{
+    position: absolute;
+    color: #1f3e72;
+    width: 250px;
+    height:300px;
+    padding-left: 350px;
+    padding-top: 390px;
+}
+#beneficio3{
+    position: absolute;
+    color: #1f3e72;
+    width: 230px;
+    height:300px;
+    padding-left: 650px;
+    padding-top: 390px;
+}
+#beneficio4{
+    position: absolute;
+    color: #1f3e72;
+    width: 280px;
+    height:300px;
+    padding-left: 950px;
+    padding-top: 390px;
+}
+#efectividad{
+    position: absolute;
+}
+#vacunaefectiva{
+    position: absolute;
+    color: #1f3e72;
+    width: 620px;
+    height:300px;
+    padding-left: 700px;
+    padding-top: 680px;
+}
+#alcohol{
+    position: relative;
+    color: #1f3e72;
+    width: 620px;
+    height:300px;
+    padding-left: 700px;
+    padding-top: 850px;
+}
+#cubrebocas{
+    position: absolute;
+    padding-top: 700px;
+    padding-left: 50px;
+}
+summary{
+    font-weight: bold;
+    cursor:pointer;
+}
+#Contacto{
+    position: relative;
+}
+#emergencia{
+    position: absolute;
+    color: #1f3e72;
+    width: 480px;
+    height:300px;
+    padding-left: 20px;
+    text-align: justify;
+}
+#llamada{
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 200px;
+    width: 300px;
+    height: 50px;
+}
+#Chat{
+    position: absolute;
+    padding-left: 450px;
+    padding-top: 200px;
+}
+#videollamada{
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 400px;
+}
+#mensaje{
+    position: absolute;
+    padding-left: 450px;
+    padding-top: 400px;
+}
+#doctor{
+    padding-left: 900px;
+}
+#final1{
+    font-size: medium;
+    text-align: left;
+    color: #3958d5;
+    position: absolute;
+    width: 200px;
+    height:200px;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+#titulostabla{
+    color: #3958d5;
+}
+.contenidotablas{
+    color: #7a879e;
+}
+#pie2{
+    text-align: center;
+    font-size: medium;
+    position: absolute;
+    width: 380px;
+    height:200px;
+    padding-left: 800px;
+    padding-top: 150px;
+}
+#vacunacion{
+    color: #7a879e;
+}
+#derechos{
+    font-size: medium;
+    text-align: left;
+    color: #7a879e;
+    position: absolute;
+    width: 500px;
+    padding-left: 50px;
+    padding-top: 300px;
+}
+#derechos2{
+    font-size: medium;
+    text-align: left;
+    color: #7a879e;
+    position: absolute;
+    width: 500px;
+    padding-left: 800px;
+    padding-top: 300px;
+}
+#derechos3{
+    font-size: medium;
+    text-align: left;
+    color: #7a879e;
+    position: absolute;
+    width: 200px;
+    padding-left: 1000px;
+    padding-top: 300px;
+}
